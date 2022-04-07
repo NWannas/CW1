@@ -1,0 +1,13 @@
+Product_id,Customername,customerID,Customeraddress,Returndate,Productlname,Productyear,Quantity,seats,type,Price
+[1,null,84884,pp neyort,20-30-2021,Prado,2021,kvb404,6,yellow,4500]
+[10,null,48484,474 america,20-03-89,Noah,2021,3vb404,6,green,500]
+[9,null,4774,kenya ,03-03-2021,voxy,2021,pvb404,6,yellow,500]
+[8,faith,47474,47 london,3-3-2021,harrier,2021,8vb404,6,whitish,1500]
+[7,john,474747,78 nai,20-03-2021,Mercedes,2021,lvb404,6,gold,9500]
+[2,2,89898,yyy,73-3-344,Pradon,2021,bvb404,6,blue,3500]
+[3,juma,889,889,20-01-2021,Prado_dvou,2021,kvb404,6,yellow,5500]
+[900,juma,4884,48,2002,jumabo,219,hhh,89,yello,800]
+[5,,jj jj,rr,2020:6:6,Ford Falcon,5,Manual,Standard,60,60]
+[5,,kk,ekk,3:2:2,Ford Falcon,5,Manual,Standard,60,60]
+[3,,3e,e,34:3:3,Toyota Corolla,5,Automatic ,Premium,55,55]
+[4,,9,9,9:9:9,VW Tiguan,7,Automatic ,Premium,110,110]

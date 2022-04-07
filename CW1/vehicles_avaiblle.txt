@@ -1,0 +1,7 @@
+modelID,Modelname,Modelyear,Numberplate,seats,Color,Price
+4,V8,2021,kvb404,6,yellow,7500
+5,Landcruiser,2021,kvb404,6,white,4500
+6,Prabox,2021,pvb404,6,silver,4500
+101,prado,2021,kcp,6,aqua,4000
+67,voxy,2019,kcb56,7,black,800
+881,prado,2021,kcb45,4,red,12
